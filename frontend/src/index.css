@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3, .font-display {
+  font-family: 'Fraunces', serif;
+  color: #173C24;
+}
